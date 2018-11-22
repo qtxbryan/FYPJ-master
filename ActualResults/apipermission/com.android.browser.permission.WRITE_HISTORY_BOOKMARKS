@@ -1,0 +1,7 @@
+truncateHistory(
+deleteFromHistory(
+addSearchUrl(
+clearHistory(
+clearSearches(
+updateVisitedHistory(
+deleteHistoryTimeFrame(

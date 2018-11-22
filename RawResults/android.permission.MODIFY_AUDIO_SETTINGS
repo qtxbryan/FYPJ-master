@@ -1,0 +1,16 @@
+<android.media.AudioManager: void setMode(int)>
+<android.media.AudioManager: void startBluetoothSco()>
+<android.media.AudioManager: void setSpeakerphoneOn(boolean)>
+<android.net.sip.SipAudioCall: void setSpeakerMode(boolean)>
+<android.media.AudioManager: void setBluetoothScoOn(boolean)>
+<android.media.AudioManager: void setMicrophoneMute(boolean)>
+<android.media.AudioManager: void setParameter(java.lang.String,java.lang.String)>
+<android.bluetooth.BluetoothHeadset: boolean stopVoiceRecognition(android.bluetooth.BluetoothDevice)>
+<android.media.AudioManager: boolean isWiredHeadsetOn()>
+<android.inputmethodservice.KeyboardView: void setKeyboard(android.inputmethodservice.Keyboard)>
+<android.inputmethodservice.KeyboardView: boolean onTouchEvent(android.view.MotionEvent)>
+<android.bluetooth.BluetoothHeadset: boolean startVoiceRecognition(android.bluetooth.BluetoothDevice)>
+<android.inputmethodservice.KeyboardView: boolean onHoverEvent(android.view.MotionEvent)>
+<android.media.AudioManager: void stopBluetoothSco()>
+<android.media.AudioManager: void setParameters(java.lang.String)>
+<android.media.AudioManager: boolean isBluetoothA2dpOn()>

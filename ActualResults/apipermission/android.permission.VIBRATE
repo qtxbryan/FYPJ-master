@@ -1,0 +1,7 @@
+getUriForDownloadedFile(
+notify(
+vibrate(
+vibrate(
+addCompletedDownload(
+notify(
+cancel(

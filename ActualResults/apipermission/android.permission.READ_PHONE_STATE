@@ -1,0 +1,9 @@
+getSubscriberId(
+getDeviceSoftwareVersion(
+listen(
+getLine1Number(
+getSimSerialNumber(
+startUsingNetworkFeature(
+getVoiceMailAlphaTag(
+getVoiceMailNumber(
+getVoiceMailNumber(

@@ -1,0 +1,16 @@
+clearTestProviderLocation(
+clearTestProviderEnabled(
+addTestProvider(
+setTestProviderLocation(
+removeTestProvider(
+setTestProviderEnabled(
+setTestProviderStatus(
+clearTestProviderStatus(
+getNetworkInfo(
+isActiveNetworkMetered(
+getNetworkPreference(
+setNetworkPreference(
+getActiveNetworkInfo(
+getAllNetworkInfo(
+stopUsingNetworkFeature(
+startUsingNetworkFeature(

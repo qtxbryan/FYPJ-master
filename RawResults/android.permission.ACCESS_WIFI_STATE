@@ -1,0 +1,8 @@
+<android.net.wifi.WifiManager: java.util.List getScanResults()>
+<android.net.wifi.WifiManager: android.net.DhcpInfo getDhcpInfo()>
+<android.net.wifi.WifiManager: boolean pingSupplicant()>
+<android.net.wifi.WifiManager: boolean isWifiEnabled()>
+<android.net.ConnectivityManager: int startUsingNetworkFeature(int,java.lang.String)>
+<android.net.wifi.WifiManager: android.net.wifi.WifiInfo getConnectionInfo()>
+<android.net.wifi.WifiManager: int getWifiState()>
+<android.net.wifi.WifiManager: java.util.List getConfiguredNetworks()>

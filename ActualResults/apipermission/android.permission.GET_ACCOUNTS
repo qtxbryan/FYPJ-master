@@ -1,0 +1,17 @@
+confirmCredentials(
+editProperties(
+getAuthToken(
+getAuthToken(
+getAuthTokenByFeatures(
+addAccount(
+getAccountsByTypeAndFeatures(
+addOnAccountsUpdatedListener(
+removeAccount(
+getAuthToken(
+getAccountsByType(
+getAuthTokenLabel(
+getAuthTokenLabel(
+clearHistory(
+getAccounts(
+hasFeatures(
+blockingGetAuthToken(

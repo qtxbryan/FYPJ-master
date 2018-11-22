@@ -1,0 +1,3 @@
+<android.app.DownloadManager: android.net.Uri getUriForDownloadedFile(long)>
+<android.app.DownloadManager: long enqueue(android.app.DownloadManager$Request)>
+<android.app.DownloadManager: long addCompletedDownload(java.lang.String,java.lang.String,boolean,java.lang.String,java.lang.String,long,boolean)>

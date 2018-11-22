@@ -1,0 +1,6 @@
+<android.media.RingtoneManager: void setActualDefaultRingtoneUri(android.content.Context,int,android.net.Uri)>
+<android.nfc.NfcAdapter: void dispatch(android.nfc.Tag)>
+<android.net.nsd.NsdManager: void setEnabled(boolean)>
+<android.bluetooth.BluetoothHeadset: boolean setPriority(android.bluetooth.BluetoothDevice,int)>
+<android.bluetooth.BluetoothA2dp: boolean setPriority(android.bluetooth.BluetoothDevice,int)>
+<android.net.ConnectivityManager: void setNetworkPreference(int)>

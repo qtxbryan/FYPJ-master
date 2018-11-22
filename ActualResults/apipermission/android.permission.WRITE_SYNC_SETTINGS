@@ -1,0 +1,11 @@
+setIsSyncable(
+setSyncAutomatically(
+addPeriodicSync(
+removePeriodicSync(
+setMasterSyncAutomatically(
+cancelSyncsandDisableAutoSync(
+addPeriodicSync(
+setSyncAutomatically(
+setIsSyncable(
+setMasterSyncAutomatically(
+removePeriodicSync(

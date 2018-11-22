@@ -1,0 +1,4 @@
+<android.net.nsd.NsdManager: void <init>(android.content.Context,android.net.nsd.INsdManager)>
+<android.app.DownloadManager: android.net.Uri getUriForDownloadedFile(long)>
+<android.net.nsd.NsdManager: void init()>
+<android.app.DownloadManager: long enqueue(android.app.DownloadManager$Request)>

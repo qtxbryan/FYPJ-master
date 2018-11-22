@@ -1,0 +1,11 @@
+<android.provider.Contacts.People: void markAsContacted(android.content.ContentResolver,long)>
+<android.provider.Contacts.ContactMethods: void addPostalLocation(android.content.Context,long,double,double)>
+<android.provider.ContactsContract.ProfileSyncState: android.content.ContentProviderOperation newSetOperation(android.accounts.Account,byte[])>
+<android.provider.ContactsContract.SyncState: void set(android.content.ContentProviderClient,android.accounts.Account,byte[])>
+<android.provider.ContactsContract.RawContacts: android.net.Uri getContactLookupUri(android.content.ContentResolver,android.net.Uri)>
+<android.provider.Contacts.People: android.net.Uri createPersonInMyContactsGroup(android.content.ContentResolver,android.content.ContentValues)>
+<android.provider.Contacts.People: android.net.Uri addToGroup(android.content.ContentResolver,long,java.lang.String)>
+<android.provider.Contacts.People: android.net.Uri addToMyContactsGroup(android.content.ContentResolver,long)>
+<android.provider.Contacts.Settings: void setSetting(android.content.ContentResolver,java.lang.String,java.lang.String,java.lang.String)>
+<android.provider.ContactsContract.SyncState: android.content.ContentProviderOperation newSetOperation(android.accounts.Account,byte[])>
+<android.provider.ContactsContract.Contacts: android.net.Uri getLookupUri(android.content.ContentResolver,android.net.Uri)>

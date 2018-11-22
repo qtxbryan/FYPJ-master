@@ -1,0 +1,16 @@
+setMode(
+startBluetoothSco(
+setSpeakerphoneOn(
+setSpeakerMode(
+setBluetoothScoOn(
+setMicrophoneMute(
+setParameter(
+stopVoiceRecognition(
+isWiredHeadsetOn(
+setKeyboard(
+onTouchEvent(
+startVoiceRecognition(
+onHoverEvent(
+stopBluetoothSco(
+setParameters(
+isBluetoothA2dpOn(

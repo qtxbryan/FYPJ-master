@@ -1,0 +1,8 @@
+getScanResults(
+getDhcpInfo(
+pingSupplicant(
+isWifiEnabled(
+startUsingNetworkFeature(
+getConnectionInfo(
+getWifiState(
+getConfiguredNetworks(

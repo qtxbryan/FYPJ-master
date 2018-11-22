@@ -1,0 +1,4 @@
+<android.net.ConnectivityManager: void setNetworkPreference(int)>
+<android.net.ConnectivityManager: boolean requestRouteToHost(int,int)>
+<android.net.ConnectivityManager: int stopUsingNetworkFeature(int,java.lang.String)>
+<android.net.ConnectivityManager: int startUsingNetworkFeature(int,java.lang.String)>

@@ -1,0 +1,9 @@
+<android.content.ContentResolver: boolean isSyncActive(android.accounts.Account,java.lang.String)>
+<android.test.mock.MockContentResolver: boolean isSyncActive(android.accounts.Account,java.lang.String)>
+<android.test.mock.MockContentResolver: boolean isSyncPending(android.accounts.Account,java.lang.String)>
+<android.test.SyncBaseInstrumentation: void syncProvider(android.net.Uri,java.lang.String,java.lang.String)>
+<android.content.ContentResolver: android.content.SyncInfo getCurrentSync()>
+<android.content.ContentResolver: java.util.List getCurrentSyncs()>
+<android.test.mock.MockContentResolver: android.content.SyncInfo getCurrentSync()>
+<android.content.ContentResolver: boolean isSyncPending(android.accounts.Account,java.lang.String)>
+<android.test.mock.MockContentResolver: java.util.List getCurrentSyncs()>

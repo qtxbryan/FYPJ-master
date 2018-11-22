@@ -1,0 +1,16 @@
+<android.location.LocationManager: void clearTestProviderLocation(java.lang.String)>
+<android.location.LocationManager: void clearTestProviderEnabled(java.lang.String)>
+<android.location.LocationManager: void addTestProvider(java.lang.String,boolean,boolean,boolean,boolean,boolean,boolean,boolean,int,int)>
+<android.location.LocationManager: void setTestProviderLocation(java.lang.String,android.location.Location)>
+<android.location.LocationManager: void removeTestProvider(java.lang.String)>
+<android.location.LocationManager: void setTestProviderEnabled(java.lang.String,boolean)>
+<android.location.LocationManager: void setTestProviderStatus(java.lang.String,int,android.os.Bundle,long)>
+<android.location.LocationManager: void clearTestProviderStatus(java.lang.String)>
+<android.net.ConnectivityManager: android.net.NetworkInfo getNetworkInfo(int)>
+<android.net.ConnectivityManager: boolean isActiveNetworkMetered()>
+<android.net.ConnectivityManager: int getNetworkPreference()>
+<android.net.ConnectivityManager: void setNetworkPreference(int)>
+<android.net.ConnectivityManager: android.net.NetworkInfo getActiveNetworkInfo()>
+<android.net.ConnectivityManager: android.net.NetworkInfo[] getAllNetworkInfo()>
+<android.net.ConnectivityManager: int stopUsingNetworkFeature(int,java.lang.String)>
+<android.net.ConnectivityManager: int startUsingNetworkFeature(int,java.lang.String)>

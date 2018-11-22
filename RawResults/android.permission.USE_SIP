@@ -1,0 +1,8 @@
+<android.net.sip.SipManager: void open(android.net.sip.SipProfile,android.app.PendingIntent,android.net.sip.SipRegistrationListener)>
+<android.net.sip.SipManager: void register(android.net.sip.SipProfile,int,android.net.sip.SipRegistrationListener)>
+<android.net.sip.SipManager: boolean isOpened(java.lang.String)>
+<android.net.sip.SipManager: boolean isRegistered(java.lang.String)>
+<android.net.sip.SipManager: void open(android.net.sip.SipProfile)>
+<android.net.sip.SipManager: void unregister(android.net.sip.SipProfile,android.net.sip.SipRegistrationListener)>
+<android.net.sip.SipManager: void close(java.lang.String)>
+<android.net.sip.SipManager: void setRegistrationListener(java.lang.String,android.net.sip.SipRegistrationListener)>

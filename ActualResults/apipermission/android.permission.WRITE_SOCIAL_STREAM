@@ -1,0 +1,11 @@
+markAsContacted(
+addPostalLocation(
+newSetOperation(
+set(
+getContactLookupUri(
+createPersonInMyContactsGroup(
+addToGroup(
+addToMyContactsGroup(
+setSetting(
+newSetOperation(
+getLookupUri(

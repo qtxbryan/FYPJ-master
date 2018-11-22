@@ -1,0 +1,15 @@
+reassociate(
+startScan(
+setCountryCode(
+startUsingNetworkFeature(
+disableNetwork(
+updateNetwork(
+removeNetwork(
+reconnect(
+addNetwork(
+enableNetwork(
+disconnect(
+setWifiEnabled(
+setNetworkPreference(
+saveConfiguration(
+stopUsingNetworkFeature(

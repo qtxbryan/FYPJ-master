@@ -1,0 +1,1 @@
+<android.provider.CallLog.Calls: java.lang.String getLastOutgoingCall(android.content.Context)>

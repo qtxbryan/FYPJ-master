@@ -1,0 +1,8 @@
+<android.net.ConnectivityManager: android.net.NetworkInfo getNetworkInfo(int)>
+<android.net.ConnectivityManager: boolean isActiveNetworkMetered()>
+<android.net.ConnectivityManager: int getNetworkPreference()>
+<android.net.ConnectivityManager: void setNetworkPreference(int)>
+<android.net.ConnectivityManager: android.net.NetworkInfo getActiveNetworkInfo()>
+<android.net.ConnectivityManager: android.net.NetworkInfo[] getAllNetworkInfo()>
+<android.net.ConnectivityManager: int stopUsingNetworkFeature(int,java.lang.String)>
+<android.net.ConnectivityManager: int startUsingNetworkFeature(int,java.lang.String)>

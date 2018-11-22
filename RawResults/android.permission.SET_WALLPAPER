@@ -1,0 +1,10 @@
+<android.content.ContextWrapper: void setWallpaper(android.graphics.Bitmap)>
+<android.app.WallpaperManager: void setBitmap(android.graphics.Bitmap)>
+<android.content.ContextWrapper: void clearWallpaper()>
+<android.app.WallpaperManager: void setStream(java.io.InputStream)>
+<android.app.WallpaperManager: void clear()>
+<android.content.Context: void setWallpaper(android.graphics.Bitmap)>
+<android.content.Context: void setWallpaper(java.io.InputStream)>
+<android.content.Context: void clearWallpaper()>
+<android.app.WallpaperManager: void setResource(int)>
+<android.content.ContextWrapper: void setWallpaper(java.io.InputStream)>

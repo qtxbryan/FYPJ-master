@@ -1,0 +1,7 @@
+<android.app.DownloadManager: android.net.Uri getUriForDownloadedFile(long)>
+<android.app.NotificationManager: void notify(int,android.app.Notification)>
+<android.os.Vibrator: void vibrate(long[],int)>
+<android.os.Vibrator: void vibrate(long)>
+<android.app.DownloadManager: long addCompletedDownload(java.lang.String,java.lang.String,boolean,java.lang.String,java.lang.String,long,boolean)>
+<android.app.NotificationManager: void notify(java.lang.String,int,android.app.Notification)>
+<android.os.Vibrator: void cancel()>

@@ -1,0 +1,8 @@
+getNetworkInfo(
+isActiveNetworkMetered(
+getNetworkPreference(
+setNetworkPreference(
+getActiveNetworkInfo(
+getAllNetworkInfo(
+stopUsingNetworkFeature(
+startUsingNetworkFeature(

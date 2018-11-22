@@ -1,0 +1,2 @@
+<android.app.ActivityManager: void restartPackage(java.lang.String)>
+<android.app.ActivityManager: void killBackgroundProcesses(java.lang.String)>

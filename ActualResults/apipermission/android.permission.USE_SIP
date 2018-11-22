@@ -1,0 +1,8 @@
+open(
+register(
+isOpened(
+isRegistered(
+open(
+unregister(
+close(
+setRegistrationListener(

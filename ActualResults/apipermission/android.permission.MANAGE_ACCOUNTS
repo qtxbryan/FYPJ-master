@@ -1,0 +1,15 @@
+confirmCredentials(
+editProperties(
+getAuthToken(
+removeAccount(
+clearPassword(
+getAuthToken(
+getAuthTokenLabel(
+getAuthToken(
+getAuthTokenByFeatures(
+addAccount(
+updateCredentials(
+invalidateAuthToken(
+hasFeatures(
+blockingGetAuthToken(
+getAccountsByTypeAndFeatures(

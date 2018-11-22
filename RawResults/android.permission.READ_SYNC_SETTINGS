@@ -1,0 +1,9 @@
+<android.widget.QuickContactBadge: void assignContactFromPhone(java.lang.String,boolean)>
+<android.widget.QuickContactBadge: void onClick(android.view.View)>
+<android.content.ContentResolver: boolean getMasterSyncAutomatically()>
+<android.content.ContentResolver: java.util.List getPeriodicSyncs(android.accounts.Account,java.lang.String)>
+<android.content.ContentResolver: boolean getSyncAutomatically(android.accounts.Account,java.lang.String)>
+<android.content.ContentResolver: int getIsSyncable(android.accounts.Account,java.lang.String)>
+<android.test.mock.MockContentResolver: boolean getSyncAutomatically(android.accounts.Account,java.lang.String)>
+<android.test.mock.MockContentResolver: int getIsSyncable(android.accounts.Account,java.lang.String)>
+<android.test.mock.MockContentResolver: boolean getMasterSyncAutomatically()>

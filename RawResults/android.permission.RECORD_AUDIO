@@ -1,0 +1,6 @@
+<android.speech.SpeechRecognizer: void stopListening()>
+<android.speech.SpeechRecognizer: void setRecognitionListener(android.speech.RecognitionListener)>
+<android.speech.SpeechRecognizer: void cancel()>
+<android.media.AudioRecord: void <init>(int,int,int,int,int)>
+<android.speech.SpeechRecognizer: void startListening(android.content.Intent)>
+<android.media.MediaRecorder: void setAudioSource(int)>

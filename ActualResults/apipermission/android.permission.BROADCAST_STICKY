@@ -1,0 +1,9 @@
+setMode(
+removeStickyBroadcast(
+sendStickyBroadcast(
+startBluetoothSco(
+sendStickyOrderedBroadcast(
+removeStickyBroadcast(
+stopBluetoothSco(
+sendStickyBroadcast(
+sendStickyOrderedBroadcast(

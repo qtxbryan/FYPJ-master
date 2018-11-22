@@ -1,0 +1,2 @@
+<android.provider.VoicemailContract.Status: android.net.Uri buildSourceUri(java.lang.String)>
+<android.provider.VoicemailContract.Voicemails: android.net.Uri buildSourceUri(java.lang.String)>

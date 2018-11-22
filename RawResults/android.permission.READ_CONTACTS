@@ -1,0 +1,3 @@
+<android.widget.QuickContactBadge: void assignContactFromEmail(java.lang.String,boolean)>
+<android.widget.QuickContactBadge: void onClick(android.view.View)>
+<android.widget.QuickContactBadge: void assignContactFromPhone(java.lang.String,boolean)>

@@ -1,0 +1,9 @@
+<android.media.AudioManager: void setMode(int)>
+<android.content.ContextWrapper: void removeStickyBroadcast(android.content.Intent)>
+<android.content.Context: void sendStickyBroadcast(android.content.Intent)>
+<android.media.AudioManager: void startBluetoothSco()>
+<android.content.ContextWrapper: void sendStickyOrderedBroadcast(android.content.Intent,android.content.BroadcastReceiver,android.os.Handler,int,java.lang.String,android.os.Bundle)>
+<android.content.Context: void removeStickyBroadcast(android.content.Intent)>
+<android.media.AudioManager: void stopBluetoothSco()>
+<android.content.ContextWrapper: void sendStickyBroadcast(android.content.Intent)>
+<android.content.Context: void sendStickyOrderedBroadcast(android.content.Intent,android.content.BroadcastReceiver,android.os.Handler,int,java.lang.String,android.os.Bundle)>

@@ -1,0 +1,3 @@
+<android.app.ActivityManager: java.util.List getRecentTasks(int,int)>
+<android.app.ActivityManager: java.util.List getRunningTasks(int)>
+<android.app.ActivityManager: java.util.List getRunningTasks(int,int,android.app.IThumbnailReceiver)>

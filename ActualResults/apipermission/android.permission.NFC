@@ -1,0 +1,6 @@
+enableForegroundDispatch(
+setNdefPushMessage(
+setBeamPushUris(
+enableForegroundNdefPush(
+disableForegroundDispatch(
+disableForegroundNdefPush(

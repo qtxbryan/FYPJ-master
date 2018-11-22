@@ -1,0 +1,7 @@
+<android.provider.Browser: void truncateHistory(android.content.ContentResolver)>
+<android.provider.Browser: void deleteFromHistory(android.content.ContentResolver,java.lang.String)>
+<android.provider.Browser: void addSearchUrl(android.content.ContentResolver,java.lang.String)>
+<android.provider.Browser: void clearHistory(android.content.ContentResolver)>
+<android.provider.Browser: void clearSearches(android.content.ContentResolver)>
+<android.provider.Browser: void updateVisitedHistory(android.content.ContentResolver,java.lang.String,boolean)>
+<android.provider.Browser: void deleteHistoryTimeFrame(android.content.ContentResolver,long,long)>

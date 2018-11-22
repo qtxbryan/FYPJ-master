@@ -1,0 +1,6 @@
+<android.nfc.NfcAdapter: void enableForegroundDispatch(android.app.Activity,android.app.PendingIntent,android.content.IntentFilter[],java.lang.String[][])>
+<android.nfc.NfcAdapter: void setNdefPushMessage(android.nfc.NdefMessage,android.app.Activity,android.app.Activity[])>
+<android.nfc.NfcAdapter: void setBeamPushUris(android.net.Uri[],android.app.Activity)>
+<android.nfc.NfcAdapter: void enableForegroundNdefPush(android.app.Activity,android.nfc.NdefMessage)>
+<android.nfc.NfcAdapter: void disableForegroundDispatch(android.app.Activity)>
+<android.nfc.NfcAdapter: void disableForegroundNdefPush(android.app.Activity)>

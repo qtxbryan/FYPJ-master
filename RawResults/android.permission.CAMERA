@@ -1,0 +1,2 @@
+<android.media.MediaRecorder: void setVideoSource(int)>
+<android.hardware.Camera: android.hardware.Camera open()>

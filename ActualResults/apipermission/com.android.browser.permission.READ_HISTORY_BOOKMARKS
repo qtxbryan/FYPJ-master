@@ -1,0 +1,11 @@
+deleteFromHistory(
+addSearchUrl(
+getAllVisitedUrls(
+canClearHistory(
+updateVisitedHistory(
+getVisitedHistory(
+truncateHistory(
+clearSearches(
+clearHistory(
+getAllBookmarks(
+deleteHistoryTimeFrame(

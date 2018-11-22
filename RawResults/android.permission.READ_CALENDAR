@@ -1,0 +1,6 @@
+<android.provider.CalendarContract.Instances: android.database.Cursor query(android.content.ContentResolver,java.lang.String[],long,long)>
+<android.provider.CalendarContract.CalendarAlerts: android.net.Uri insert(android.content.ContentResolver,long,long,long,long,int)>
+<android.provider.CalendarContract.EventDays: android.database.Cursor query(android.content.ContentResolver,int,int,java.lang.String[])>
+<android.provider.CalendarContract.Instances: android.database.Cursor query(android.content.ContentResolver,java.lang.String[],long,long,java.lang.String)>
+<android.provider.CalendarContract.Attendees: android.database.Cursor query(android.content.ContentResolver,long,java.lang.String[])>
+<android.provider.CalendarContract.Reminders: android.database.Cursor query(android.content.ContentResolver,long,java.lang.String[])>

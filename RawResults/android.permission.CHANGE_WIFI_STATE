@@ -1,0 +1,15 @@
+<android.net.wifi.WifiManager: boolean reassociate()>
+<android.net.wifi.WifiManager: boolean startScan()>
+<android.net.wifi.WifiManager: void setCountryCode(java.lang.String,boolean)>
+<android.net.ConnectivityManager: int startUsingNetworkFeature(int,java.lang.String)>
+<android.net.wifi.WifiManager: boolean disableNetwork(int)>
+<android.net.wifi.WifiManager: int updateNetwork(android.net.wifi.WifiConfiguration)>
+<android.net.wifi.WifiManager: boolean removeNetwork(int)>
+<android.net.wifi.WifiManager: boolean reconnect()>
+<android.net.wifi.WifiManager: int addNetwork(android.net.wifi.WifiConfiguration)>
+<android.net.wifi.WifiManager: boolean enableNetwork(int,boolean)>
+<android.net.wifi.WifiManager: boolean disconnect()>
+<android.net.wifi.WifiManager: boolean setWifiEnabled(boolean)>
+<android.net.ConnectivityManager: void setNetworkPreference(int)>
+<android.net.wifi.WifiManager: boolean saveConfiguration()>
+<android.net.ConnectivityManager: int stopUsingNetworkFeature(int,java.lang.String)>
