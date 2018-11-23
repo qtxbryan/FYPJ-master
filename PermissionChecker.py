@@ -16,6 +16,7 @@ PermissionCheck = []
 DangerousPermission = []
 DangerousPermissions = []
 PermissionMethod = []
+PermissionOverDeclared = []
 
 # /home/fypj/Download/testtest
 GivenAPK = sys.argv[1]
@@ -92,6 +93,32 @@ def grep(pattern, dir):
     files = [o[0] + "/" + f for o in os.walk(dir) for f in o[2] if os.path.isfile(o[0] + "/" + f)]
     return [l for f in files for l in open(f) if r.search(l)]
 
+def checkPermissioOverdeclared():
+    for item in PermissionDeclared:
+        if item not in PermissionExist:
+            str_item = str(item)
+            print (str_item)
+            connection = pymysql.connect(host='localhost', user='root', password='', db='dbplaystore')
+
+            try:
+                with connection.cursor() as cursor:
+                    sql = "SELECT `name`, `perm_id` FROM permissions"
+
+                    try:
+                        cursor.execute(sql)
+                        result = cursor.fetchall()
+                        for row in result:
+                            perm_name = row[0]
+                            if str_item in perm_name:
+                                permID = row[1]
+                                DBConnector.createOverDeclaredPermission(permID, title)
+                    except Exception as e:
+                        print(e)
+                connection.commit()
+            finally:
+                connection.close()
+
+
 
 def checkPermissionExist(folder):
     if PermissionDeclared:
@@ -127,7 +154,6 @@ def checkPermissionExist(folder):
                                     if permission in perm_name:
                                         permID = row[1]
                                         DBConnector.createExistingPermission(permID, title)
-                                        
                             except Exception as e:
                                 print(e)
                         connection.commit()
@@ -156,6 +182,7 @@ CheckSubFolder('./RawResults')
 
 os.chdir('../../../Downloads/FYPJ-master')
 checkPermissionExist('./jd-cli-0.9.2-dist/' + AppName + '-dex2jar.src')
+checkPermissioOverdeclared()
 
 print("")
 print('Permission Declared in Manifest: ')
